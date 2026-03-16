@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+title: morphOMICs Venturino 2025
+message: "If you use this code, please cite it as below."
+type: software
+doi: 10.5281/zenodo.19057068
+repository-code: https://github.com/siegert-lab/morphOMICs_Venturino_2025
+version: 2025_release
+authors: Alessandro Venturino, MohammadAmin Alamalhoda, Thomas Negrello, ​​Kelly Jin, Cindy T.J. van Velthoven, Ryan John A. Cubero, Jake Yeung, Peter Koppensteiner, Bosiljka Tasic, Sandra Siegert
