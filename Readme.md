@@ -1,3 +1,6 @@
+## Publication
+DOI: 10.5281/zenodo.19057068
+
 ## Installation
 
 You can install kxa_analysis using either Conda or pip. Follow the steps below based on your preferred package manager.
